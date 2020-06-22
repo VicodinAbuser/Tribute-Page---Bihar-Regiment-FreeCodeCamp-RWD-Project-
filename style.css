@@ -42,6 +42,7 @@ a:hover {
     border-radius: 10px;
     box-shadow: 5px 5px 20px 2px #393e46;
     padding: 15px;
+    padding-right: 40px;
     border-color: black;
     border-style: solid;
     border-width: 2px;
@@ -50,9 +51,17 @@ a:hover {
     font-weight: 500;
 }
 
+.intro {
+    padding-left: 40px;
+}
+
 .footer {
     font-weight: 500;
     padding: 20px;
+}
+
+.honors {
+    padding-left: 40px;
 }
 
 #main {
